@@ -1,6 +1,6 @@
 <h1 align="center">Attention Modules</h1>
 
-### This repository contains implementations of the most popular Attention Modules.
+### This repository provides implementations of several widely-used attention modules.
 
 #### Attention Modules
 - [Scaled Dot-Product Attention](#scaled-dot-product-attention)
